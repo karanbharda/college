@@ -1,0 +1,2 @@
+Symbol,Name,Current_Price_USD,Predicted_Price,Recommendation,Buy_Score,Sell_Score,Risk_Level,Sector,Industry,Timestamp
+META,"Meta Platforms, Inc.",704.71,345.3807067871094,BUY,0.05871628884614744,0.04128371115385258,MEDIUM,Communication Services,Internet Content & Information,20250617_214029

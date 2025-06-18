@@ -1,0 +1,2 @@
+Symbol,Name,Current_Price_USD,Predicted_Price,Recommendation,Buy_Score,Sell_Score,Risk_Level,Sector,Industry,Timestamp
+NFLX,"Netflix, Inc.",1225.5,514.367919921875,BUY,0.06690849914758241,0.03309150085241759,LOW,Communication Services,Entertainment,20250617_200430

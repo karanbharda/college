@@ -1,0 +1,13 @@
+{
+    "cash": 38906.33,
+    "holdings": {
+        "META": {
+            "qty": 4,
+            "avg_price": 701.06
+        },
+        "NFLX": {
+            "qty": 1,
+            "avg_price": 1226.56
+        }
+    }
+}

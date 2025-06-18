@@ -1,0 +1,2 @@
+Symbol,Name,Current_Price_USD,Predicted_Price,Recommendation,Buy_Score,Sell_Score,Risk_Level,Sector,Industry,Timestamp
+AGX,"Argan, Inc.",212.21,69.44467163085938,BUY,0.10531560356811026,-0.005315603568110262,HIGH,Industrials,Engineering & Construction,20250618_011704

@@ -1,0 +1,2 @@
+Symbol,Name,Current_Price_USD,Predicted_Price,Recommendation,Buy_Score,Sell_Score,Risk_Level,Sector,Industry,Timestamp
+UBER,"Uber Technologies, Inc.",85.16,63.25345993041992,BUY,0.056525132731952074,0.04347486726804793,MEDIUM,Technology,Software - Application,20250617_212150

@@ -1,0 +1,48 @@
+[
+    {
+        "asset": "META",
+        "action": "buy",
+        "qty": 2,
+        "price": 702.12,
+        "timestamp": "2025-06-17 19:03:54.482920"
+    },
+    {
+        "asset": "UBER",
+        "action": "buy",
+        "qty": 24,
+        "price": 84.78,
+        "timestamp": "2025-06-17 19:07:31.169310"
+    },
+    {
+        "asset": "FUBO",
+        "action": "buy",
+        "qty": 630,
+        "price": 3.21,
+        "timestamp": "2025-06-17 19:10:49.189943"
+    },
+    {
+        "asset": "XPEV",
+        "action": "buy",
+        "qty": 273,
+        "price": 18.93,
+        "timestamp": "2025-06-17 19:14:34.861616"
+    },
+    {
+        "asset": "AGX",
+        "action": "buy",
+        "qty": 9,
+        "price": 218.59,
+        "timestamp": "2025-06-17 19:17:57.126212"
+    },
+    {
+        "asset": "NFLX",
+        "action": "buy",
+        "qty": 1,
+        "price": 1226.56,
+        "timestamp": "2025-06-17 19:21:14.214802"
+    },
+    {
+        "asset": "META",
+        "action": "buy",
+        "qty": 2,
+        "price": 
